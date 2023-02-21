@@ -3,7 +3,8 @@ public static void main(String[] args) {
     int a = 1;
     int b = 2;
     int x = 3;
-    int c = a + b + x;
+    int d = 3;
+    int c = a + b + x + d;
     
     System.out.println(c);
 }
